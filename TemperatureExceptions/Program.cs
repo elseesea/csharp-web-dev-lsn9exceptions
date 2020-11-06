@@ -12,5 +12,6 @@ namespace TemperatureExceptions
             Temperature outsideTemp = new Temperature(-8200);
             Console.WriteLine(outsideTemp.Fahrenheit);
         }
-    }
-}
+
+    } // class
+} // namespace
